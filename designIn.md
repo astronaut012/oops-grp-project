@@ -1,4 +1,4 @@
-# Product Catalog Service Design (Revised)
+# Product Catalog Service Design
 
 ## 1. Classes and Member Methods
 
